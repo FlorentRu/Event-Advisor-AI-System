@@ -30,7 +30,7 @@ By bridging the gap between event organizers and prospective attendees, the Even
 - **Personalized Recommendations:** Filters events based on user-defined preferences such as city and interests.
 - **Conversational AI:** Powered by a powerful NLP model to generate natural and context-aware responses.
 - **Interactive Interface:** Provides a simple Gradio-based web interface for testing and interaction.
-- **Rapid Prototyping:** Designed with GPU support.
+- **Rapid Excecution Speed:** I designed it to run with GPU support.
 
 ## Example Conversation
 
