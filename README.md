@@ -15,7 +15,7 @@ Event Advisor Chatbot is a powerful, customizable system that connects event org
 Below is an example of how the chatbot interacts with a user:
 
 **User Question:**  
-> "Fetch me a list of some upcoming tech events in NYC."
+> "Fetch me a list of some upcoming tech events in NYC"
 
 **Chatbot Answer:**  
 > "Here are some upcoming tech events in NYC:  
