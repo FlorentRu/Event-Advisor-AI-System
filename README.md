@@ -26,11 +26,11 @@ By bridging the gap between event organizers and prospective attendees, the Even
 
 ## Features
 
-- **Real‑Time Event Data:** Uses the Google Custom Search API to fetch up‑to‑date event information.
+- **Real‑Time Event Data:** Fetch up‑to‑date event information.
 - **Personalized Recommendations:** Filters events based on user-defined preferences such as city and interests.
-- **Conversational AI:** Powered by the Falcon‑7B‑Instruct model to generate natural and context-aware responses.
+- **Conversational AI:** Powered by a powerful NLP model to generate natural and context-aware responses.
 - **Interactive Interface:** Provides a simple Gradio-based web interface for testing and interaction.
-- **Rapid Prototyping:** Designed to run on Google Colab with GPU support, enabling quick experimentation.
+- **Rapid Prototyping:** Designed with GPU support.
 
 ## Example Conversation
 
