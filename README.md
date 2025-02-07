@@ -4,7 +4,7 @@ Event Advisor Chatbot is a powerful, customizable system that connects event org
 
 ## Business Impact and Use Cases
 
-The Event Advisor AI System is not only a (transformers-based)technical it also has the potential to drive significant business outcomes across multiple sectors. By intelligently matching event organizers with potential attendees, the system opens up a variety of revenue and growth opportunities:
+The Event Advisor AI System is not only a (transformers-based) technical it also has the potential to drive significant business outcomes across multiple sectors. By intelligently matching event organizers with potential attendees, the system opens up a variety of revenue and growth opportunities:
 
 - **Empowering Tech Professionals:**  
   Tech enthusiasts and professionals seeking to break into or advance within the tech industry can leverage the chatbot to discover relevant networking events, conferences, and meetups. This targeted approach helps individuals build connections, gain exposure to new opportunities, and accelerate their entry or growth in the tech field.
