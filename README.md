@@ -10,7 +10,7 @@ The Event Advisor AI System is not only a (transformers-based)technical it also 
   Tech enthusiasts and professionals seeking to break into or advance within the tech industry can leverage the chatbot to discover relevant networking events, conferences, and meetups. This targeted approach helps individuals build connections, gain exposure to new opportunities, and accelerate their entry or growth in the tech field.
 
 - **Expanding Industry Reach:**  
-  While initially tailored for tech networking events, the platform can easily be adapted for professionals in other fields—such as finance, healthcare, marketing, and more, who also rely on networking to drive career advancement. This cross-industry flexibility broadens the potential user base and market penetration.
+  While initially tailored for tech networking events, the platform can easily be adapted for professionals in other fields such as finance, healthcare, marketing, and more, who also rely on networking to drive career advancement. This cross-industry flexibility broadens the potential user base and market penetration.
 
 - **Enhanced Event Engagement:**  
   For event organizers, the system provides a streamlined channel to promote their events to highly interested and targeted audiences. This can result in increased attendance, higher engagement rates, and ultimately more effective networking and business outcomes.
