@@ -1,7 +1,5 @@
 # Event Advisor AI System
 
-# Event Advisor Chatbot
-
 Event Advisor Chatbot is a powerful, customizable system that connects event organizers with potential attendees by providing updated, personalized event recommendations. Built on Google Colab using the Falcon‑7B‑Instruct model and integrated with the Google Custom Search API, this chatbot retrieves real‑time event data and delivers a natural conversational experience via a Gradio interface.
 
 ## Features
