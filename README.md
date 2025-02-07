@@ -33,7 +33,9 @@ Below is an example of how the chatbot interacts with a user:
 *Note:* This sample conversation demonstrates the prototype’s capability to retrieve and present event information. Actual event details may vary and depend on real-time data fetched.
 
 event-advisor-chatbot/
-├── EventAdvisorChatbot.ipynb  # Main Colab notebook
+
+├── EventAISystem.ipynb  # Main Colab notebook
+
 ├── README.md                  # This file
-└── requirements.txt           # (Optional) List of Python dependencies
+
 
